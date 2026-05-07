@@ -4,7 +4,7 @@
 
 ### Cybersecurity Student | Blue Team & SOC | MITRE ATT&CK Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdillahi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdillahi-said-ismail-a457a4267)
 [![Location](https://img.shields.io/badge/Rennes%2C_France-EE3124?style=for-the-badge&logo=google-maps&logoColor=white)]()
 [![University](https://img.shields.io/badge/ISTIC_Rennes-003366?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://istic.univ-rennes.fr)
 
